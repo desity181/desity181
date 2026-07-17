@@ -1,50 +1,41 @@
-# Hi there, I'm desity181! 👋
+# Hi there 👋 I'm Yueqiang Xu
 
-I am an AI researcher and software developer passionate about **Deep Learning (DL)**, **Intelligent Transportation Systems (ITS)**, and **Software/System Engineering**. Currently, I am pursuing my academic path at **Harbin University of Science and Technology (HRBUST)**.
+🎓 Master's Student | C++ Developer | Researcher
 
-My research and engineering interests span across cutting-edge spatio-temporal data mining, graph neural networks, self-supervised learning, and system-level development.
+I enjoy building high-performance desktop applications with Modern C++, while conducting research on trajectory representation learning and spatio-temporal data mining.
 
----
+## 💻 Software Engineering
 
-### 🔬 Research Interests
-* **Spatio-Temporal Traffic Forecasting**: Designing advanced deep learning architectures to capture complex dynamic urban patterns.
-* **Graph Deep Learning & Self-Supervised Learning**: Exploring graph contrastive learning, pre-training strategies, and topology-regularized latent space calibration.
-* **Memory-Augmented Networks**: Utilizing long-range memory mechanisms for decoupled spatio-temporal modeling.
+- Modern C++ (C++20)
+- Qt Desktop Development
+- Audio & Video Streaming (FFmpeg, SDL, OpenGL)
+- Network Programming
+- AI Native Applications
+- Cross-platform Development (Windows / Linux)
 
----
+## 🔬 Research Interests
 
-### 🚀 Featured Projects
+- Trajectory Representation Learning
+- Trajectory Similarity
+- Graph Neural Networks (GNN)
+- Self-Supervised Learning
+- Spatial-Temporal Data Mining
 
-#### 📝 Research & Academic Projects
-* **PCLFormer**: A framework for long-range memory-augmented decoupled spatio-temporal traffic forecasting.
-* **LHMformer (Enhanced)**: Research on topology-regularized latent space calibration for enhanced spatio-temporal traffic forecasting.
-* **Unified Multi-City Prediction Model** *(In Progress)*: A unified prediction model addressing heterogeneous road networks and cross-city magnitude differences.
+## 🚀 Featured Projects
 
-#### 🛠️ Open Source & Application Development
-* **NovaChat**: A chat interface and exploration repository focusing on interactive experiences[cite: 1, 2].
-* **android_note**: A dedicated workspace for Android development notes, system exploration, and practice[cite: 3].
-* **Offline Map Path Planning Tool**: A desktop application for offline routing, navigation, and path visualization.
-* **OS Kernel Exploration**: Code and experiments exploring hardware interrupt handlers and interrupt contexts in operating system kernels.
-* **Desktop Music Player**: A custom desktop music player utilizing modern UI frameworks.
+### NovaChat
+An AI-native desktop chat application built with Qt and Modern C++.
 
----
+### Live Streaming Client
+A Qt-based multimedia client supporting video playback, live streaming, audio-video synchronization, and rendering.
 
-### 💻 Tech Stack & Tools
-* **AI / Data Science**: Python, PyTorch, PyTorch Geometric, NumPy, Pandas
-* **Languages**: Python, C/C++, Java, Kotlin
-* **Frameworks & Core Concepts**: Android SDK[cite: 3], OS Kernel (Interrupt context & handlers), LaTeX
-* **Developer Tools**: Git, GitHub Copilot, JetBrains IDEs, Docker
+### STCRN
+A self-supervised framework for spatio-temporal road network representation learning based on graph neural networks and contrastive learning.
 
----
+## 🛠 Tech Stack
 
-### 📊 GitHub Stats & Activity
-*(Uncomment these when you paste!)*
-<!--
-[![desity181's GitHub stats](https://github-readme-stats.vercel.app/api?username=desity181&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desity181&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
--->
+C++ · Qt · FFmpeg · SDL2 · OpenGL · CMake · Git · Python · PyTorch
 
----
+## 🌱 Currently Learning
 
-### 📫 Connect with Me
-* **Email**: [2420410098@stu.hrbust.edu.cn](mailto:2420410098@stu.hrbust.edu.cn)[cite: 4]
+LLMs · MCP · RAG · AI Agents · Vibe Coding
